@@ -1,1 +1,1 @@
-# C0re-C0de-from-scratch-readme-Dante
+# C0RE-C0DE-from-scratch-readme-Dante
