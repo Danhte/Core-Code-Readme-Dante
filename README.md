@@ -7,12 +7,10 @@ It is a language that is converted into binary code, when the programmer sends t
 
 -Interpreted Languages
 The interpreted language is converted line by line in real time, without the need for an extra compilation or conversion step.
-
 }
 
 2.Is Java compiled or interpreted, or both? {
 JAVA It is a language that is compiled into a program called BYTECODE, and then passed through a visual machine that interprets it to finally pass it to the CPU. Also called JUST IN TIME, this method is used to improve the performance of the interpreted programs.
- 
 }
 
 3.Pseudocode Currency Converter {
