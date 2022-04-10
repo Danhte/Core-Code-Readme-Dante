@@ -27,3 +27,49 @@ END
 
 4.Your date of birth in the matrix? 
 11011   01   1101001
+
+
+
+6.Print special numbers:
+
+        //ciclo for
+        for(numero = 0; numero <= 200; numero +=2){
+        document.write(numero + ",");
+        }
+
+        //ciclo while
+        let numeros = 0;
+        while(numeros <= 101){
+            document.write(numeros + ",");
+            numeros += 2;
+        }
+
+        //ciclo do while
+        var num = 0;
+        do {
+            if(num % 2 ==0)console.log(num);
+        }while (num + ",")
+
+7.Bad Code
+because the variable was already assigned with the false value and it is not necessary to assign that value again, but rather it is necessary to make a comparison
+
+        var cond = false;
+        if (cond == false) {
+          document.write('The cond variable is true');
+        } else {
+          document.write('The cond variable is false');
+        }
+
+8.Bad code 2
+
+        var n = 100;
+        
+        if (n == 100) {
+          console.log('This is a special number!');
+        }
+        else if (n < 1000 && n % 10 == 0) {
+          console.log('This number is almost special');
+  
+        } else {
+          console.log('Just a regular number');
+        }
