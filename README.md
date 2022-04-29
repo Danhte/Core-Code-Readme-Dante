@@ -1,19 +1,19 @@
-# C0RE-C0DE-from-scratch-readme-Dante
+# Core Code "Readme Dante"
 
-1.Interpreted And Compiled Programming Languages 
+### Interpreted And Compiled Programming Languages 
 
--Compiled Languages
+- Compiled Languages
 It is a language that is converted into binary code, when the programmer sends the code to the machine it is transformed into machine code. The language is rebuilt once the programmer is "done" testing the code.
 
--Interpreted Languages
+- Interpreted Languages
 The interpreted language is converted line by line in real time, without the need for an extra compilation or conversion step.
 
 
-2.Is Java compiled or interpreted, or both? 
-JAVA It is a language that is compiled into a program called BYTECODE, and then passed through a visual machine that interprets it to finally pass it to the CPU. Also called JUST IN TIME, this method is used to improve the performance of the interpreted programs.
+### Is Java compiled or interpreted, or both? 
+- JAVA It is a language that is compiled into a program called BYTECODE, and then passed through a visual machine that interprets it to finally pass it to the CPU. Also called JUST IN TIME, this method is used to improve the performance of the interpreted programs.
 
 
-3.Pseudocode Currency Converter 
+### Pseudocode Currency Converter 
 START 
 DOLLAR <-- GET 
 BITCOIN <-- GET  
@@ -25,12 +25,11 @@ READ BITCOIN
 PRINT “the total bitcoin would be“, TOTAL
 END
 
-4.Your date of birth in the matrix? 
-11011   01   1101001
+### Your date of birth in the matrix? 
+- 11011   01   1101001
 
 
-
-6.Print special numbers:
+### Print special numbers:
 
         //ciclo for
         for(numero = 0; numero <= 200; numero +=2){
@@ -50,8 +49,8 @@ END
             if(num % 2 ==0)console.log(num);
         }while (num + ",")
 
-7.Bad Code
-because the variable was already assigned with the false value and it is not necessary to assign that value again, but rather it is necessary to make a comparison
+### Bad Code
+- because the variable was already assigned with the false value and it is not necessary to assign that value again, but rather it is necessary to make a comparison
 
         var cond = false;
         if (cond == false) {
@@ -60,7 +59,7 @@ because the variable was already assigned with the false value and it is not nec
           document.write('The cond variable is false');
         }
 
-8.Bad code 2
+### Bad code 2
 
         var n = 100;
         
