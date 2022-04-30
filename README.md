@@ -72,3 +72,18 @@ END
         } else {
           console.log('Just a regular number');
         }
+  
+WEEK 2
+-------------
+
+### Multiply
+        
+        function multiply(a, b){
+        return a * b
+        }
+        
+### ASCII Total
+
+
+
+
