@@ -101,4 +101,17 @@ WEEK 2
       else if (exam > 50 && projects >= 2) return 75;
       else return 0; }
 
+### Holiday VIII - Duty Free
+    function dutyFree(normPrice, discount, hol){
+      return Math.floor(hol / ((discount * normPrice) / 100));
+    }
 
+### Twice as old
+    function twiceAsOld(dadYearsOld, sonYearsOld) {
+    let sum = Math.abs(dadYearsOld - sonYearsOld * 2)
+    return(sum)
+    }
+### Valid Spacing
+
+
+### Fake Binary
