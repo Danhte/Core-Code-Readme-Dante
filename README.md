@@ -84,6 +84,12 @@ WEEK 2
         
 ### ASCII Total
 
+### ASCII Value 
 
-
-
+        function getChar(c){
+           return String.fromCharCode(c);
+        }
+### Binary Addition 
+        function addBinary(a,b) {
+          return (a + b).toString(2);
+        }
