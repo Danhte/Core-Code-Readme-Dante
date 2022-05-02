@@ -119,10 +119,28 @@ WEEK 2
       return x.replace(/[1234]/g, '0').replace(/[56789]/g, '1');
     }
     
-WEEK 3
--------------
-
 ### Exclamation marks series #2: Remove all exclamation marks from the end of sentence
     function remove (string) {  
       return string.replace(/!+$/g, "");
     }
+
+### Vowel Remover
+        function shortcut (string) {
+          return string.replace(/[a,e,i,o,u]+/g, "");
+        }
+
+### Rock Paper Scissors!
+      const rps = (p1, p2) => {
+        let rules = { rock: 'scissors', paper: 'rock', scissors: 'paper' };
+        if (p1 === p2) return 'Draw!';
+        if (p2 === rules[p1]) {
+          return 'Player 1 won!';
+        }
+  return 'Player 2 won!';
+};
+
+### Persistent Bugger
+
+
+WEEK 3
+-------------
