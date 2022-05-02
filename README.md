@@ -144,3 +144,14 @@ WEEK 2
 
 WEEK 3
 -------------
+
+### Who Likes It? 
+
+
+### Bit Counting 
+
+
+### Your Order, Please 
+
+
+### Simple Pig Latin
