@@ -115,3 +115,14 @@ WEEK 2
 
 
 ### Fake Binary
+    function fakeBin(x){
+      return x.replace(/[1234]/g, '0').replace(/[56789]/g, '1');
+    }
+    
+WEEK 3
+-------------
+
+### Exclamation marks series #2: Remove all exclamation marks from the end of sentence
+    function remove (string) {  
+      return string.replace(/!+$/g, "");
+    }
