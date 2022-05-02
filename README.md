@@ -169,3 +169,11 @@ WEEK 3
 
 
 ### Simple Pig Latin
+
+
+## 1st Core Challenge
+
+- Dante Agonizante, Web developer & UX designer. Estudiante de Ingeniería en Tecnologías Computacionales, con 1 año de experiencia en desarrollo y diseño utilizando JavaScript, CSS, Figma, Adobe XD. Considero que me encuentro en el momento adecuado para adquirir experiencia e incorporarme a una empresa tech. Me considero un joven apasionado y curioso por los contenidos digitales, amo los trabajos que estimulan mi creatividad, aprender nuevas habilidades para plasmar lo que me gusta en tantas maneras como que pueda.
+
+
+
