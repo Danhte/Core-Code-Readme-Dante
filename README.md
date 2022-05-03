@@ -177,10 +177,49 @@ WEEK 3
 
 
 ### Counting Duplicates
+    function duplicateCount(text){
 
+      let count = 0
+      let obj ={}
+
+      for (let i of text) {
+        i = i.toLowerCase()
+        if (!obj[i]) {
+          obj[i] = 1
+        } else {
+          obj[1]++
+        }
+      }
+      for (let i in obj) {
+        if(obj[i] > 1) {
+          count++
+        }
+      }
+      return count
+    }
 
 ### Decode The Morse Code
 
+
+### Valid Parentheses
+     function validParentheses(parens){
+         let openNum = 0;
+       for( let i = 0; i < parens.length; i++){
+         if (parens.charAt(i) == "(" ) {
+           openNum += 1;
+         }else{
+           openNum -= 1;
+         }
+         if ( openNum < 0 ){
+           return false
+         }
+       }
+       if (openNum === 0){
+         return true
+       }else {
+       return false
+       }
+     }
 
 ## 1st Core Challenge
 
