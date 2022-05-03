@@ -166,7 +166,12 @@ WEEK 3
   };
 
 ### Your Order, Please 
-
+     function order(words){
+       if(!words) return words;
+       return words.split(" ").sort((a,b)=>{
+        return a.split("").find(x => {return /\d/.test(x)}) > b.split("").find(x => {return /\d/.test(x)})? 1 : -1
+       }).join(" ");
+       }
 
 ### Simple Pig Latin
 
