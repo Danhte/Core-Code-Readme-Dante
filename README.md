@@ -1,4 +1,4 @@
-# Core Code :corecodelogo: "Readme Dante"
+# Core Code :rocket: "Readme Dante"
 
 ### Interpreted And Compiled Programming Languages 
 
