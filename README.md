@@ -1,5 +1,8 @@
 # Core Code :rocket: "Readme Dante"
 
+WEEK 1
+-------------
+
 ### Interpreted And Compiled Programming Languages 
 
 - Compiled Languages
